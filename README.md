@@ -1,5 +1,15 @@
 # 💫 About Me:
-Soy una programadora joven de 20 años, apasionada por la tecnología y el desarrollo de software. 🚀 Desde Valencia, España, me dedico a aprender cada día algo nuevo y a mejorar mis habilidades en programación.<br><br>🔹 Siempre en busca de nuevos retos: Me encanta participar en proyectos innovadores, colaborar con otros desarrolladores y enfrentar desafíos que me ayuden a crecer profesionalmente.<br><br>🔹 Aprender es mi motor: Me mantengo en constante evolución, explorando nuevas tecnologías, frameworks y metodologías para escribir código limpio, eficiente y escalable.<br><br>🔹 Comprometida con el código abierto: Creo en la importancia de compartir conocimientos y contribuir a la comunidad tech.<br><br>Si estás buscando a alguien con ganas de aprender, crecer y aportar valor a tu equipo, ¡hablemos! 😊<br><br>📩 Contáctame: saezgarciabelen@gmail.com
+I am a young programmer, 20 years old, passionate about technology and software development. 🚀 Based in Valencia, Spain, I dedicate myself to learning something new every day and improving my programming skills.
+
+🔹 Always seeking new challenges: I love participating in innovative projects, collaborating with other developers, and tackling challenges that help me grow professionally.
+
+🔹 Learning is my driving force: I am constantly evolving, exploring new technologies, frameworks, and methodologies to write clean, efficient, and scalable code.
+
+🔹 Committed to open source: I believe in the importance of sharing knowledge and contributing to the tech community.
+
+If you're looking for someone eager to learn, grow, and add value to your team, let's talk! 😊
+
+📩 Contact me: saezgarciabelen@gmail.com
 
 
 ## 🌐 Socials:
