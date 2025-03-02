@@ -3,7 +3,7 @@
 
 ◦ 💻 Passionate about programming and web development
 
-◦ ⚡ Enthusiast in JavaScript,Kotlin, and SQL
+◦ ⚡ Enthusiast in Angular,Kotlin, and SQL
 
 ◦ 📱 Always exploring new technologies and tools
 ## 🌐 Socials:
