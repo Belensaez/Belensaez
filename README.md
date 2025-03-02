@@ -1,7 +1,8 @@
 # 💫 About Me:
-I am a young programmer, 20 years old, passionate about technology and software development. 🚀 Based in Valencia, Spain, I dedicate myself to learning something new every day and improving my programming skills.<br><br>🔹 Always seeking new challenges: I love participating in innovative projects, collaborating with other developers, and tackling challenges that help me grow professionally.<br><br>🔹 Learning is my driving force: I am constantly evolving, exploring new technologies, frameworks, and methodologies to write clean, efficient, and scalable code.<br><br>🔹 Committed to open source: I believe in the importance of sharing knowledge and contributing to the tech community.<br><br>If you're looking for someone eager to learn, grow, and add value to your team, let's talk! 😊<br><br>📩 Contact me: saezgarciabelen@gmail.com
-
-
+🎓 2nd-year DAM student
+💻 Passionate about programming and multiplatform development
+⚡ Enthusiast in Java, C#, and SQL
+📱 Always exploring new technologies and tools
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belen-saez-garcia) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saezgarciabelen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saezgarciabelen@gmail.com) 
 
