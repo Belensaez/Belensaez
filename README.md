@@ -1,11 +1,11 @@
 # 💫 About Me:
-🎓 2nd-year DAW student
+◦ 🎓 2nd-year DAW student
 
-💻 Passionate about programming and web development
+◦ 💻 Passionate about programming and web development
 
-⚡ Enthusiast in JavaScript,Kotlin, and SQL
+◦ ⚡ Enthusiast in JavaScript,Kotlin, and SQL
 
-📱 Always exploring new technologies and tools
+◦ 📱 Always exploring new technologies and tools
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belen-saez-garcia) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saezgarciabelen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saezgarciabelen@gmail.com) 
 
